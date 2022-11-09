@@ -1,0 +1,5 @@
+﻿  Źródło.cpp
+c:\users\jakub\documents\studia\programowanie w c\projekty\projekt2pgm\projekt2pgm\źródło.cpp(154): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+c:\users\jakub\documents\studia\programowanie w c\projekty\projekt2pgm\projekt2pgm\źródło.cpp(241): warning C4102: "odniesienie": etykieta, do której nie istnieje odwołanie
+c:\users\jakub\documents\studia\programowanie w c\projekty\projekt2pgm\projekt2pgm\źródło.cpp(230): warning C4101: "nr": lokalna zmienna, do której nie istnieje odwołanie
+  Projekt2pgm.vcxproj -> C:\Users\Jakub\Documents\Studia\Programowanie w C\Projekty\Projekt2pgm\Debug\Projekt2pgm.exe
